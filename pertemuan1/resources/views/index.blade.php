@@ -44,7 +44,7 @@
         <button type="submit">Enter</button>
     </form>
 
-    <div id="group1">
+    <div class="group1">
         <h1>Hello World</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, qui!</p>
     </div>
